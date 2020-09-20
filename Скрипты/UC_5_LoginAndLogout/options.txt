@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\1οκ\Desktop\Scripts\UC_5_LoginAndLogout
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\1οκ\desktop\scripts\uc_5_loginandlogout\\logfile.log
+c:\users\1οκ\desktop\scripts\uc_5_loginandlogout\\combined_UC_5_LoginAndLogout.c
+c:\users\1οκ\desktop\scripts\uc_5_loginandlogout\\pre_cci.c
