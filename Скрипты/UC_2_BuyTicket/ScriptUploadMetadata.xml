@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC_2_BuyTicket</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC_2_BuyTicket.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="DfeConfig\" Filter="4" />
+    <FileEntry Name="UC_2_BuyTicket.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_UC_2_BuyTicket.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="213205660440.idx" Filter="1" />
+    <FileEntry Name="232043698440.idx" Filter="1" />
+    <FileEntry Name="232397656440.idx" Filter="1" />
+    <FileEntry Name="245063932440.idx" Filter="1" />
+    <FileEntry Name="261982323440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="BuyTicketVugenScript.prm.bak" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvbhY.203.log" Filter="1" />
+    <FileEntry Name="mdrvBxD.663.log" Filter="1" />
+    <FileEntry Name="mdrvDa4.601.log" Filter="1" />
+    <FileEntry Name="mdrvHq4.759.log" Filter="1" />
+    <FileEntry Name="mdrvMiZ.963.log" Filter="1" />
+    <FileEntry Name="mdrvVGv.997.log" Filter="1" />
+    <FileEntry Name="mdrvzfH.29.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="README.md" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC_2_BuyTicket.c.pickle" Filter="1" />
+    <FileEntry Name="UC_2_BuyTicket.ci" Filter="1" />
+    <FileEntry Name="UC_2_BuyTicket.prm.bak" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
